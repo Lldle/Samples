@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DAC_PWM_Signal Pin=DD1-B10
+Removed Pin From Net: NetName=ADC_Signal Pin=DD1-G10
+Added Pin To Net: NetName=DAC_PWM_Signal Pin=DD1-K9
+Added Pin To Net: NetName=ADC_Signal Pin=DD1-K10

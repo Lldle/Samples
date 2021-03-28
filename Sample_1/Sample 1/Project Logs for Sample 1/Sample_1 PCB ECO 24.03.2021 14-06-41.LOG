@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=N_RST_Battery Pin=DD1-B10
+Added Pin To Net: NetName=N_RST_Battery Pin=DD1-A9

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=VDD_Analog Pin=C21-1
+Removed Pin From Net: NetName=GND_Analog Pin=C21-2
+Removed Member From Class: ClassName=Sheet_2 Member=C21

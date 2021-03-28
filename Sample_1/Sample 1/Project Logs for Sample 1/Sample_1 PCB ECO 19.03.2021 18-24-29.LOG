@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=N_CD_Battery Pin=DD1-A6
+Added Pin To Net: NetName=N_CD_Battery Pin=DD1-A8
+Added Member To Class: ClassName=Sheet_1 Member=Component C6 X7R
+Added Member To Class: ClassName=Sheet_1 Member=Component C8 C0G
+Added Member To Class: ClassName=Sheet_1 Member=Component C10 X7R
+Added Member To Class: ClassName=Sheet_2 Member=Component C13 X7R
+Added Member To Class: ClassName=Sheet_2 Member=Component C15 X7R
+Added Member To Class: ClassName=Sheet_2 Member=Component C18 X5R
+Added Member To Class: ClassName=Sheet_2 Member=Component C21 X7R
+Added Member To Class: ClassName=Sheet_2 Member=Component C23 X7R

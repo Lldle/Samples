@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=GND_Digital Pin=VD2-2
+Removed Pin From Net: NetName=USB_D_N Pin=VD2-4
+Removed Pin From Net: NetName=VDD_USB Pin=VD2-5
+Removed Pin From Net: NetName=USB_D_P Pin=VD2-6
+Removed Member From Class: ClassName=Sheet_1 Member=VD2
+Change Component Designator: OldDesignator=GND NewDesignator=XT5
+Change Component Designator: OldDesignator=NRST NewDesignator=XT4
+Change Component Designator: OldDesignator=SWCLK NewDesignator=XT3
+Change Component Designator: OldDesignator=SWDIO NewDesignator=XT2
+Change Component Designator: OldDesignator=VDD NewDesignator=XT1
+Added Pin To Net: NetName=USB_D_N Pin=VD1-4
+Added Pin To Net: NetName=USB_D_P Pin=VD1-6

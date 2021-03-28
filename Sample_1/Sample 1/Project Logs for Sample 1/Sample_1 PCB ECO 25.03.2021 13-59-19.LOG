@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=REF_EN Pin=DD1-K8
+Added Pin To Net: NetName=REF_EN Pin=DD1-D10

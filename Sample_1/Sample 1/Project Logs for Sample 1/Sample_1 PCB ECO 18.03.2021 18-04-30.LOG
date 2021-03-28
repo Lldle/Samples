@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=REF_EN Pin=DD1-E10
+Removed Pin From Net: NetName=GEN_EN Pin=DD1-F10
+Added Pin To Net: NetName=GEN_EN Pin=DD1-K7
+Added Pin To Net: NetName=REF_EN Pin=DD1-K8

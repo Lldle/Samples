@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetR1_2 Pin=VD1-1
+Removed Pin From Net: NetName=NetR2_2 Pin=VD1-3
+Removed Pin From Net: NetName=USB_D_P Pin=VD2-4
+Removed Pin From Net: NetName=USB_D_N Pin=VD2-6
+Added Pin To Net: NetName=NetR2_2 Pin=VD1-1
+Added Pin To Net: NetName=NetR1_2 Pin=VD1-3
+Added Pin To Net: NetName=USB_D_N Pin=VD2-4
+Added Pin To Net: NetName=USB_D_P Pin=VD2-6

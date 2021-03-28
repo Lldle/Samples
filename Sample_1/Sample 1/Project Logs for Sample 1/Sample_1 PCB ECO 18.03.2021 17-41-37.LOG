@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LSCTRL_Battery Pin=DD1-A8
+Removed Pin From Net: NetName=N_RST_Battery Pin=DD1-A9
+Added Pin To Net: NetName=LSCTRL_Battery Pin=DD1-A9
+Added Pin To Net: NetName=N_RST_Battery Pin=DD1-B10

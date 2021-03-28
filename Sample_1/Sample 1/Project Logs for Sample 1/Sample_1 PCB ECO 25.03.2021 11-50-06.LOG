@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDD_Analog Pin=C14-1
+Removed Pin From Net: NetName=GND_Analog Pin=C14-2
+Removed Member From Class: ClassName=Sheet_2 Member=C14
+Added Member To Class: ClassName=Sheet_1 Member=Component DA1 TPS79730QDCKRQ1
